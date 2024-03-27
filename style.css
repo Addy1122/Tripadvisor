@@ -800,12 +800,12 @@ body {
 .section9{
     background-color: #F9F1EC;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
     body{
         font-size: 10px;
     }
 }
-@media screen and (max-width:1160px) {
+@media screen and (max-width:800px) {
    .beaches-image,.likes-images,.title,.s6ti,.menu{
         overflow: hidden;
         
